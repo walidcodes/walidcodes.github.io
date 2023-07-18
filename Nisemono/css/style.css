@@ -2085,7 +2085,7 @@ h5 + p {
 }
 
 .purchase-animation {
-  background: url(../img/FC\ buying\ 100%.jpg);
+  background: url(../img/fcbuying100.jpg);
   background-position: center;
   background-size: 14rem;
 
@@ -2124,7 +2124,7 @@ h5 + p {
 
 @keyframes fourth-card-focus {
   0% {
-    background: url(../img/FC\ buying\ 6.25%.jpg);
+    background: url(../img/fcbuying625.jpg);
     background-position: 5.5%;
     background-size: 28rem;
 
@@ -2133,7 +2133,7 @@ h5 + p {
   }
 
   6.25% {
-    background: url(../img/FC\ buying\ 6.25%.jpg);
+    background: url(../img/fcbuying625.jpg);
     background-position: 5.5%;
     background-size: 27.125rem;
 
@@ -2141,85 +2141,85 @@ h5 + p {
   }
 
   12.5% {
-    background: url(../img/FC\ buying\ 12.5%.jpg);
+    background: url(../img/fcbuying125.jpg);
     background-position: 5.5%;
     background-size: 26.25rem;
   }
 
   18.75% {
-    background: url(../img/FC\ buying\ 18.75.jpg);
+    background: url(../img/fcbuying1875.jpg);
     background-position: 5.5%;
     background-size: 25.375rem;
   }
 
   25% {
-    background: url(../img/FC\ buying\ 25%.jpg);
+    background: url(../img/fcbuying25.jpg);
     background-position: 5.5%;
     background-size: 24.5rem;
   }
 
   31.25% {
-    background: url(../img/FC\ buying\ 31.25%..jpg);
+    background: url(../img/fcbuying3125.jpg);
     background-position: 5.5%;
     background-size: 23.625rem;
   }
 
   37.5% {
-    background: url(../img/FC\ buying\ 37.5%.jpg);
+    background: url(../img/fcbuying375.jpg);
     background-position: 5.5%;
     background-size: 22.75rem;
   }
 
   43.75% {
-    background: url(../img/FC\ buying\ 43.75%.jpg);
+    background: url(../img/fcbuying4375.jpg);
     background-position: 5.5%;
     background-size: 21.875rem;
   }
 
   50% {
-    background: url(../img/FC\ buying\ 50%.jpg);
+    background: url(../img/fcbuying50.jpg);
     background-position: 5.5%;
     background-size: 21rem;
   }
 
   56.25% {
-    background: url(../img/FC\ buying\ 56.25%.jpg);
+    background: url(../img/fcbuying5625.jpg);
     background-position: 5.5%;
     background-size: 20.125rem;
   }
 
   62.5% {
-    background: url(../img/FC\ buying\ 62.5%.jpg);
+    background: url(../img/fcbuying625.jpg);
     background-position: 5.5%;
     background-size: 19.25rem;
   }
 
   68.75% {
-    background: url(../img/FC\ buying\ 68.75%.jpg);
+    background: url(../img/fcbuying6875.jpg);
     background-position: 5.5%;
     background-size: 18.375rem;
   }
 
   75% {
-    background: url(../img/FC\ buying\ 75%.jpg);
+    background: url(../img/fcbuying75.jpg);
     background-position: 5.5%;
     background-size: 17.5rem;
   }
 
   81.25% {
-    background: url(../img/FC\ buying\ 81.25%.jpg);
+    background: url(../img/fcbuying8125.jpg);
     background-position: 5.5%;
     background-size: 16.625rem;
   }
 
   87.5% {
-    background: url(../img/FC\ buying\ 87.5%.jpg);
+    background: url(../img/fcbuying875.jpg);
     background-position: 14.5%;
     background-size: 15.75rem;
   }
 
   93.75% {
-    background: url(../img/FC\ buying\ 93.75%.jpg);
+    background: url(../img/fcbuying9375.jpg);
     background-position: 5.5%;
     background-size: 14.875rem;
 
@@ -2227,7 +2227,7 @@ h5 + p {
   }
 
   100% {
-    background: url(../img/FC\ buying\ 100%.jpg);
+    background: url(../img/fcbuying100.jpg);
     background-position: center;
     background-size: 14rem;
 
