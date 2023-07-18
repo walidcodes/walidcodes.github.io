@@ -1424,7 +1424,7 @@ h1 + p {
 .bairnb-logo,
 .shohify-logo,
 .salescorce-logo,
-.twitter-logo,
+.wittier-logo,
 .nftplix-logo,
 .droxbop-logo,
 .hoge-logo {
@@ -1434,7 +1434,7 @@ h1 + p {
 }
 
 .shohify-logo,
-.twitter-logo,
+.wittier-logo,
 .nftplix-logo,
 .hoge-logo {
   filter: contrast(1%);
@@ -1462,7 +1462,7 @@ h1 + p {
   animation: domino 0.3s forwards 2.8s;
 }
 
-.twitter-logo {
+.wittier-logo {
   animation: domino 0.3s forwards 2.95s;
 }
 
