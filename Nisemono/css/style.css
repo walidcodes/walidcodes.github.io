@@ -1861,7 +1861,7 @@ h5 + p {
 }
 
 .media-animation {
-  background: url(../img/fc\ media.jpg);
+  background: url(../img/fcmedia.jpg);
   background-position: center;
   background-size: 17.5rem;
 
@@ -1897,7 +1897,7 @@ h5 + p {
 
 @keyframes second-card-focus {
   0% {
-    background: url(../img/fc\ media\ 1%.jpg.jpg);
+    background: url(../img/fcmedia1.jpg);
     background-position: 29rem 29rem;
     background-size: 14rem;
 
@@ -1908,7 +1908,7 @@ h5 + p {
   }
 
   10% {
-    background: url(../img/fc\ media\ 10%.jpg);
+    background: url(../img/fcmedia10.jpg);
     background-position: center;
     background-size: 14.1rem;
 
@@ -1916,7 +1916,7 @@ h5 + p {
   }
 
   30% {
-    background: url(../img/fc\ media\ 30%.jpg);
+    background: url(../img/fcmedia30.jpg);
     background-position: center;
     background-size: 14.3rem;
 
@@ -1924,7 +1924,7 @@ h5 + p {
   }
 
   50% {
-    background: url(../img/fc\ media\ 50%.jpg);
+    background: url(../img/fcmedia50.jpg);
     background-position: center;
     background-size: 14.5rem;
 
@@ -1932,7 +1932,7 @@ h5 + p {
   }
 
   65% {
-    background: url(../img/fc\ media\ 65%.jpg);
+    background: url(../img/fcmedia65.jpg);
     background-position: center;
     background-size: 14.65rem;
 
@@ -1940,7 +1940,7 @@ h5 + p {
   }
 
   75% {
-    background: url(../img/fc\ media\ 75%.jpg);
+    background: url(../img/fcmedia75.jpg);
     background-position: center;
     background-size: 15.75rem;
 
@@ -1954,7 +1954,7 @@ h5 + p {
 }
 
 .design-animation {
-  background: url(../img/fc\ graphics\ 0%.jpg);
+  background: url(../img/fcgraphics0.jpg);
   background-position: -1.22rem 5.7rem;
   background-size: 17.5rem;
 
@@ -1964,55 +1964,55 @@ h5 + p {
 
 @keyframes third-card-unfocus {
   11% {
-    background: url(../img/fc\ graphics\ 200%.jpg);
+    background: url(../img/fcgraphics200.jpg);
     background-position: -1.22rem 5.7rem;
     background-size: 17.5rem;
   }
 
   22% {
-    background: url(../img/fc\ graphics\ 300%.jpg);
+    background: url(../img/fcgraphics300.jpg);
     background-size: 17.5rem;
     background-position: -1.22rem 5.7rem;
   }
 
   33% {
-    background: url(../img/fc\ graphics\ 400%.jpg);
+    background: url(../img/fcgraphics400.jpg);
     background-position: -1.22rem 5.7rem;
     background-size: 17.5rem;
   }
 
   44% {
-    background: url(../img/fc\ graphics\ 500%.jpg);
+    background: url(../img/fcgraphics500.jpg);
     background-position: -1.22rem 5.7rem;
     background-size: 17.5rem;
   }
 
   55% {
-    background: url(../img/fc\ graphics\ 600%.jpg);
+    background: url(../img/fcgraphics600.jpg);
     background-size: 17.5rem;
     background-position: -1.22rem 5.7rem;
   }
 
   66% {
-    background: url(../img/fc\ graphics\ 700%.jpg);
+    background: url(../img/fcgraphics700.jpg);
     background-size: 17.5rem;
     background-position: -1.22rem 5.7rem;
   }
 
   77% {
-    background: url(../img/fc\ graphics\ 800%.jpg);
+    background: url(../img/fcgraphics800.jpg);
     background-size: 17.5rem;
     background-position: -1.22rem 5.7rem;
   }
 
   88% {
-    background: url(../img/fc\ graphics\ 900%.jpg);
+    background: url(../img/fcgraphics900.jpg);
     background-size: 17.5rem;
     background-position: -1.22rem 5.7rem;
   }
 
   100% {
-    background: url(../img/fc\ graphics\ 1000%.jpg);
+    background: url(../img/fcgraphics1000.jpg);
     background-position: -1.22rem 5.7rem;
     background-size: 17.5rem;
 
@@ -2027,55 +2027,55 @@ h5 + p {
 
 @keyframes third-card-focus {
   11% {
-    background: url(../img/fc\ graphics\ 200%.jpg);
+    background: url(../img/fcgraphics200.jpg);
     background-position: -1.22rem 5.7rem;
     background-size: 17.5rem;
   }
 
   22% {
-    background: url(../img/fc\ graphics\ 300%.jpg);
+    background: url(../img/fcgraphics300.jpg);
     background-position: -1.22rem 5.7rem;
     background-size: 17.5rem;
   }
 
   33% {
-    background: url(../img/fc\ graphics\ 400%.jpg);
+    background: url(../img/fcgraphics400.jpg);
     background-position: -1.22rem 5.7rem;
     background-size: 17.5rem;
   }
 
   44% {
-    background: url(../img/fc\ graphics\ 500%.jpg);
+    background: url(../img/fcgraphics500.jpg);
     background-position: -1.22rem 5.7rem;
     background-size: 17.5rem;
   }
 
   55% {
-    background: url(../img/fc\ graphics\ 600%.jpg);
+    background: url(../img/fcgraphics600.jpg);
     background-position: -1.22rem 5.7rem;
     background-size: 17.5rem;
   }
 
   66% {
-    background: url(../img/fc\ graphics\ 700%.jpg);
+    background: url(../img/fcgraphics700.jpg);
     background-position: -1.22rem 5.7rem;
     background-size: 17.5rem;
   }
 
   77% {
-    background: url(../img/fc\ graphics\ 800%.jpg);
+    background: url(../img/fcgraphics800.jpg);
     background-position: -1.22rem 5.7rem;
     background-size: 17.5rem;
   }
 
   88% {
-    background: url(../img/fc\ graphics\ 900%.jpg);
+    background: url(../img/fcgraphics900.jpg);
     background-position: -1.22rem 5.7rem;
     background-size: 17.5rem;
   }
 
   100% {
-    background: url(../img/fc\ graphics\ 1000%.jpg);
+    background: url(../img/fcgraphics1000.jpg);
     background-size: 17.5rem;
     background-position: -1.22rem 5.7rem;
 
