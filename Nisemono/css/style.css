@@ -4503,6 +4503,16 @@ li {
   }
 }
 
+.preload {
+  display: hidden;
+  animation: second-card-unfocus 0.1s ease-in alternate;
+  animation: second-card-focus 3s ease-in forwards;
+  animation: third-card-unfocus 1s linear reverse backwards;
+  animation: third-card-focus 2s linear forwards;
+  animation: fourth-card-unfocus 0.3s linear reverse backwards;
+  animation: fourth-card-focus 5s linear forwards;
+}
+
 /******************************************
 /* END
 /*******************************************/
